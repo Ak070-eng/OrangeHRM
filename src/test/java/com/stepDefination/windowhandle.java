@@ -51,6 +51,7 @@ public void user_test_window_handle() {
 	  
 	  driver.switchTo().window(parentWindow1);
 	  System.out.println(driver.getCurrentUrl());
+	System.out.println("Test clone");
 	   
 }
 
